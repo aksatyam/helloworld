@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import {AppNavigator} from './AppNatigator';
+import AppNavigator from './AppNatigator';
 
 export default class App extends React.Component {
   render() {
